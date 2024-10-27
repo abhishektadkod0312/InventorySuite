@@ -7,6 +7,6 @@
 </b></h2>
 
 <p>
-    Super Admin: Login with email, Add and modify users
+    Super Admin: Login with email, Add and modify users<br/>
     Admin: Login, Add medicines, Add patients
 </p>
